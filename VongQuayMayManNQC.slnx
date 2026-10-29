@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="VongQuayMayManNQC.Setup/VongQuayMayManNQC.Setup.vdproj" Type="Installer">
+    <Build />
+  </Project>
+  <Project Path="VongQuayMayManNQC/VongQuayMayManNQC.csproj" Id="b6e18646-05b2-496c-8597-a2b5053413b2" />
+</Solution>
